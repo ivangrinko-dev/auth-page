@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+ 
+body {
+    width: 1200px;
+    background: #E5E5E5;
+    margin: auto;
+    margin-bottom: 95px;
+    
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 44px;
+    
+    position: absolute;
+    width: 440px;
+    height: 529px;
+    left: 845px;
+    top: 166px;
+}
+.img {
+    width: 36px;
+    height: 36px;
+    flex: none;
+    background-image: url(./image/waving-hand.svg);
+}
+
+h1 {
+width: 239px;
+height: 45px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+color: #292731;
+}
+
+h6 {
+width: 292px;
+height: 27px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 170%;
+color: #292731;
+}
+
+.section1 p {
+    width: 199px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #455360;
+}
+
+.section2 p {
+    width: 199px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #455360;
+}
+.inp-1 {
+width: 440px;
+height: 48px;
+background: #ECF2F7;
+border-radius: 4px;
+}
+
+.inp-1 placeholder {
+    width: 281px;
+    height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #7B8389;
+}
+.inp-2 {
+    width: 440px;
+    height: 48px;
+    background: #ECF2F7;
+    border-radius: 4px;
+    }
+button {
+Width: 440px;
+Height: 54px;
+background: #4C70FF;
+border-radius: 8px;
+}
+
+.btn p {
+    width: 256px;
+    height: 24px;
+    padding-left: 120px;
+}
+a {
+    color: blue
+}
